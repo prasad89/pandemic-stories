@@ -26,6 +26,7 @@
 5) Autocomplete search bar.
 6) Related posts.
 7) Verified Comments.
+8) Translate post into any language.
 
 <strong>Upcoming Features</strong>
 1) Direct Messaging.
