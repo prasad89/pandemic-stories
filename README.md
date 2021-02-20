@@ -16,7 +16,7 @@
 7) after creating the database hit import.
 8) Select the pandamic.sql file from folder.
 9) Import all the databases.
-10) Finally type localhost/final2 on your url and you are good to go!
+10) Finally type localhost/Pandemic-stories on your url and you are good to go!
 
 <strong>Features</strong>
 1) Login,signup
