@@ -13,5 +13,5 @@
     </script>
     <div class="container">
         <h6 class="text-muted">Desgined By: <a href="https://github.com/tusharad">Tushar</a> & <a
-                href="https://github.com/Prasad89">Vivek</a></h6>
+                href="https://github.com/Prasad89">Prasad</a></h6>
 </footer>
